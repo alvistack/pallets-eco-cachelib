@@ -1,0 +1,4 @@
+python3-cachelib: copyright-without-copyright-notice
+python3-cachelib: initial-upload-closes-no-bugs
+python3-cachelib: no-manual-page
+python3-cachelib: zero-byte-file-in-doc-directory
