@@ -1,0 +1,5 @@
+python-cachelib source: file-without-copyright-information
+python-cachelib source: no-debian-changes
+python-cachelib source: source-contains-prebuilt-windows-binary
+python-cachelib source: source-is-missing
+python-cachelib source: source-package-encodes-python-version
